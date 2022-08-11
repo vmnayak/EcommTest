@@ -1,0 +1,572 @@
+08/04/2022 02:36:34 PM: INFO: *Test_001*
+08/04/2022 02:36:35 PM: INFO: *Verifying Homepage Title*
+08/04/2022 02:36:41 PM: INFO: *Homepage Title Test Passed*
+08/04/2022 02:36:42 PM: INFO: *Verifying Login Title*
+08/04/2022 02:36:49 PM: INFO: *Login Title Passed*
+08/04/2022 02:37:24 PM: INFO: *Test_001*
+08/04/2022 02:37:25 PM: INFO: *Verifying Homepage Title*
+08/04/2022 02:37:31 PM: WARNING: *Homepage Title Test Failed*
+08/04/2022 02:37:32 PM: INFO: *Verifying Login Title*
+08/04/2022 02:37:37 PM: ERROR: *Login Title Failed*
+08/04/2022 08:36:42 PM: INFO: *Test_001*
+08/04/2022 08:36:43 PM: INFO: *Verifying Homepage Title*
+08/04/2022 08:36:49 PM: INFO: *Homepage Title Test Passed*
+08/04/2022 08:36:51 PM: INFO: *Verifying Login Title*
+08/04/2022 08:36:58 PM: INFO: *Login Title Passed*
+08/04/2022 08:37:07 PM: INFO: *Test_001*
+08/04/2022 08:37:13 PM: INFO: *Verifying Homepage Title*
+08/04/2022 08:37:15 PM: INFO: *Homepage Title Test Passed*
+08/04/2022 08:37:19 PM: INFO: *Verifying Login Title*
+08/04/2022 08:37:23 PM: INFO: *Login Title Passed*
+08/04/2022 08:41:21 PM: INFO: *Test_001*
+08/04/2022 08:41:23 PM: INFO: *Verifying Homepage Title*
+08/04/2022 08:41:29 PM: INFO: *Homepage Title Test Passed*
+08/04/2022 08:41:32 PM: INFO: *Verifying Login Title*
+08/04/2022 08:41:39 PM: INFO: *Login Title Passed*
+08/04/2022 08:43:59 PM: INFO: *Test_001*
+08/04/2022 08:43:59 PM: INFO: *Test_001*
+08/04/2022 08:43:59 PM: INFO: *Test_001*
+08/04/2022 08:44:01 PM: INFO: *Verifying Homepage Title*
+08/04/2022 08:44:01 PM: INFO: *Verifying Login Title*
+08/04/2022 08:44:07 PM: INFO: *Login Title Passed*
+08/04/2022 08:44:07 PM: INFO: *Homepage Title Test Passed*
+08/05/2022 07:15:23 PM: INFO: *Test_001*
+08/05/2022 07:15:23 PM: INFO: *Test_001*
+08/05/2022 07:15:25 PM: INFO: *Verifying Login Title*
+08/05/2022 07:15:25 PM: INFO: *Verifying Homepage Title*
+08/05/2022 07:15:27 PM: INFO: *Homepage Title Test Passed*
+08/05/2022 07:15:31 PM: INFO: *Login Title Passed*
+08/05/2022 07:42:50 PM: INFO: *Test_001*
+08/05/2022 07:42:51 PM: INFO: *Verifying Homepage Title*
+08/05/2022 07:42:58 PM: INFO: *Homepage Title Test Passed*
+08/05/2022 07:43:01 PM: INFO: *Verifying Login Title*
+08/05/2022 07:43:05 PM: INFO: *Login Title Passed*
+08/07/2022 04:34:30 PM: INFO: *Test_001*
+08/07/2022 04:34:30 PM: INFO: *DDT Test Completed
+08/07/2022 04:34:30 PM: INFO: *DDT Test Completed
+08/07/2022 04:34:30 PM: INFO: *DDT Test Completed
+08/07/2022 04:34:32 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 04:34:32 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 04:34:32 PM: INFO: 
+08/07/2022 04:34:41 PM: INFO: *Logged in Successfully
+08/07/2022 04:34:41 PM: ERROR: *Login Title Failed*
+08/07/2022 04:34:43 PM: INFO: *DDT Test Failed
+08/07/2022 04:46:46 PM: INFO: *Test_001*
+08/07/2022 04:46:46 PM: INFO: *DDT Test Completed
+08/07/2022 04:46:47 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 04:46:47 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 04:46:47 PM: INFO: 
+08/07/2022 04:46:56 PM: INFO: *Logged in Successfully
+08/07/2022 04:46:56 PM: ERROR: *Login Title Failed*
+08/07/2022 04:46:58 PM: INFO: *DDT Test Failed
+08/07/2022 04:49:01 PM: INFO: *Test_001*
+08/07/2022 04:49:01 PM: INFO: *DDT Test Completed
+08/07/2022 04:49:02 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 04:49:02 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 04:49:02 PM: INFO: 
+08/07/2022 04:49:11 PM: INFO: *Logged in Successfully
+08/07/2022 04:49:11 PM: ERROR: *Login Title Failed*
+08/07/2022 04:49:16 PM: INFO: *Test Passed*
+08/07/2022 04:49:19 PM: INFO: *Test Passed*
+08/07/2022 04:49:23 PM: INFO: *Test Passed*
+08/07/2022 04:49:23 PM: INFO: *DDT Test Failed
+08/07/2022 04:51:53 PM: INFO: *Test_001*
+08/07/2022 04:51:53 PM: INFO: *DDT Test Completed
+08/07/2022 04:51:54 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 04:51:54 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 04:51:54 PM: INFO: 
+08/07/2022 04:52:03 PM: INFO: *Logged in Successfully
+08/07/2022 04:52:03 PM: INFO: *Login Title Passed*
+08/07/2022 04:52:08 PM: INFO: *Test Passed*
+08/07/2022 04:52:11 PM: INFO: *Test Passed*
+08/07/2022 04:52:15 PM: INFO: *Test Passed*
+08/07/2022 04:52:15 PM: INFO: *DDT Test Passed
+08/07/2022 04:55:00 PM: INFO: *Test_002*
+08/07/2022 04:55:00 PM: INFO: *DDT Test Completed
+08/07/2022 04:55:01 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 04:55:01 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 04:55:01 PM: INFO: 
+08/07/2022 04:55:10 PM: INFO: *Logged in Successfully
+08/07/2022 04:55:10 PM: INFO: *Login Title Passed*
+08/07/2022 04:55:15 PM: INFO: *Test Passed*
+08/07/2022 04:55:18 PM: INFO: *Test Passed*
+08/07/2022 04:55:22 PM: INFO: *Test Passed*
+08/07/2022 04:55:22 PM: INFO: *DDT Test Passed
+08/07/2022 06:29:12 PM: INFO: *Test_002*
+08/07/2022 06:29:12 PM: INFO: *DDT Test Completed
+08/07/2022 06:29:13 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 06:29:13 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 06:29:13 PM: INFO: 
+08/07/2022 06:29:23 PM: INFO: *Logged in Successfully
+08/07/2022 06:29:23 PM: INFO: *Login Title Passed*
+08/07/2022 06:29:28 PM: INFO: *Test Passed*
+08/07/2022 06:29:31 PM: INFO: *Test Passed*
+08/07/2022 06:29:35 PM: INFO: *Test Passed*
+08/07/2022 06:29:35 PM: INFO: *DDT Test Passed
+08/07/2022 06:54:51 PM: INFO: *Test_002*
+08/07/2022 06:54:51 PM: INFO: *DDT Test Completed
+08/07/2022 06:54:52 PM: INFO: *Test_002_DDT_Login*
+08/07/2022 06:54:52 PM: INFO: *Verifying Login DDT Title*
+08/07/2022 06:54:52 PM: INFO: 
+08/07/2022 06:55:01 PM: INFO: *Logged in Successfully
+08/07/2022 06:55:01 PM: INFO: *Login Title Passed*
+08/07/2022 06:55:06 PM: INFO: *Test Passed*
+08/07/2022 06:55:10 PM: INFO: *Test Passed*
+08/07/2022 06:55:13 PM: INFO: *Test Passed*
+08/07/2022 06:55:13 PM: INFO: *DDT Test Passed
+08/09/2022 02:36:57 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:37:03 PM: INFO: *Logged in Successfully*
+08/09/2022 02:37:03 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:37:06 PM: INFO: *Providing Customer Info*
+08/09/2022 02:39:51 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:39:56 PM: INFO: *Logged in Successfully*
+08/09/2022 02:39:56 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:39:59 PM: INFO: *Providing Customer Info*
+08/09/2022 02:40:50 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:41:21 PM: INFO: *Logged in Successfully*
+08/09/2022 02:41:21 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:41:24 PM: INFO: *Providing Customer Info*
+08/09/2022 02:41:30 PM: INFO: *Saving Customer Info*
+08/09/2022 02:41:30 PM: INFO: *Add Customer Test Failed
+08/09/2022 02:43:59 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:44:05 PM: INFO: *Logged in Successfully*
+08/09/2022 02:44:05 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:44:08 PM: INFO: *Providing Customer Info*
+08/09/2022 02:44:14 PM: INFO: *Saving Customer Info*
+08/09/2022 02:44:14 PM: INFO: *Add Customer Test Passed
+08/09/2022 02:44:14 PM: INFO: *Ending Add Customer Test*
+08/09/2022 02:45:15 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:45:20 PM: INFO: *Logged in Successfully*
+08/09/2022 02:45:20 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:45:23 PM: INFO: *Providing Customer Info*
+08/09/2022 02:45:28 PM: INFO: *Saving Customer Info*
+08/09/2022 02:45:28 PM: INFO: *Add Customer Test Passed
+08/09/2022 02:45:28 PM: INFO: *Ending Add Customer Test*
+08/09/2022 02:47:38 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:47:59 PM: INFO: *Logged in Successfully*
+08/09/2022 02:47:59 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:48:04 PM: INFO: *Providing Customer Info*
+08/09/2022 02:48:09 PM: INFO: *Saving Customer Info*
+08/09/2022 02:48:09 PM: INFO: *Add Customer Test Passed
+08/09/2022 02:48:09 PM: INFO: *Ending Add Customer Test*
+08/09/2022 02:52:47 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:52:52 PM: INFO: *Logged in Successfully*
+08/09/2022 02:52:52 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:52:54 PM: INFO: *Providing Customer Info*
+08/09/2022 02:53:01 PM: INFO: *Saving Customer Info*
+08/09/2022 02:53:01 PM: INFO: *Add Customer Test Passed
+08/09/2022 02:53:01 PM: INFO: *Ending Add Customer Test*
+08/09/2022 02:54:57 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 02:55:03 PM: INFO: *Logged in Successfully*
+08/09/2022 02:55:03 PM: INFO: *Starting Add Customer Test*
+08/09/2022 02:55:06 PM: INFO: *Providing Customer Info*
+08/09/2022 02:55:12 PM: INFO: *Saving Customer Info*
+08/09/2022 02:55:12 PM: INFO: *Add Customer Test Passed
+08/09/2022 02:55:16 PM: INFO: *Ending Add Customer Test*
+08/09/2022 04:11:26 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:11:32 PM: INFO: *Logged in Successfully*
+08/09/2022 04:11:32 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:11:35 PM: INFO: *Providing Customer Info*
+08/09/2022 04:13:05 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:13:09 PM: INFO: *Logged in Successfully*
+08/09/2022 04:13:09 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:13:12 PM: INFO: *Providing Customer Info*
+08/09/2022 04:13:18 PM: INFO: *Saving Customer Info*
+08/09/2022 04:13:18 PM: INFO: *Add Customer Test Passed
+08/09/2022 04:13:18 PM: INFO: *Ending Add Customer Test*
+08/09/2022 04:14:27 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:14:31 PM: INFO: *Logged in Successfully*
+08/09/2022 04:14:31 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:14:34 PM: INFO: *Providing Customer Info*
+08/09/2022 04:14:39 PM: INFO: *Saving Customer Info*
+08/09/2022 04:15:42 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:15:48 PM: INFO: *Logged in Successfully*
+08/09/2022 04:15:48 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:15:51 PM: INFO: *Providing Customer Info*
+08/09/2022 04:18:02 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:18:24 PM: INFO: *Logged in Successfully*
+08/09/2022 04:18:24 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:18:30 PM: INFO: *Providing Customer Info*
+08/09/2022 04:20:06 PM: INFO: *Saving Customer Info*
+08/09/2022 04:20:06 PM: INFO: *Add Customer Test Passed
+08/09/2022 04:20:06 PM: INFO: *Ending Add Customer Test*
+08/09/2022 04:20:14 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:20:20 PM: INFO: *Logged in Successfully*
+08/09/2022 04:20:20 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:20:24 PM: INFO: *Providing Customer Info*
+08/09/2022 04:20:35 PM: INFO: *Saving Customer Info*
+08/09/2022 04:20:35 PM: INFO: *Add Customer Test Passed
+08/09/2022 04:20:35 PM: INFO: *Ending Add Customer Test*
+08/09/2022 04:20:55 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:21:00 PM: INFO: *Logged in Successfully*
+08/09/2022 04:21:00 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:21:03 PM: INFO: *Providing Customer Info*
+08/09/2022 04:21:37 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:21:42 PM: INFO: *Logged in Successfully*
+08/09/2022 04:21:42 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:21:44 PM: INFO: *Providing Customer Info*
+08/09/2022 04:21:56 PM: INFO: *Saving Customer Info*
+08/09/2022 04:21:56 PM: INFO: *Add Customer Test Passed
+08/09/2022 04:21:59 PM: INFO: *Ending Add Customer Test*
+08/09/2022 04:23:01 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 04:23:07 PM: INFO: *Logged in Successfully*
+08/09/2022 04:23:07 PM: INFO: *Starting Add Customer Test*
+08/09/2022 04:23:09 PM: INFO: *Providing Customer Info*
+08/09/2022 04:23:21 PM: INFO: *Saving Customer Info*
+08/09/2022 04:23:21 PM: INFO: *Add Customer Test Passed
+08/09/2022 04:23:24 PM: INFO: *Ending Add Customer Test*
+08/09/2022 05:49:59 PM: INFO: *Test_001*
+08/09/2022 05:49:59 PM: INFO: *Test_001*
+08/09/2022 05:49:59 PM: INFO: *Test_001*
+08/09/2022 05:49:59 PM: INFO: *Test_001*
+08/09/2022 05:49:59 PM: INFO: *Test_001*
+08/09/2022 05:49:59 PM: INFO: *Test_002*
+08/09/2022 05:49:59 PM: INFO: *Test_002*
+08/09/2022 05:49:59 PM: INFO: *DDT Test Completed
+08/09/2022 05:49:59 PM: INFO: *Test_002*
+08/09/2022 05:49:59 PM: INFO: *DDT Test Completed
+08/09/2022 05:49:59 PM: INFO: *DDT Test Completed
+08/09/2022 05:49:59 PM: INFO: *DDT Test Completed
+08/09/2022 05:49:59 PM: INFO: *DDT Test Completed
+08/09/2022 05:50:02 PM: INFO: *Verifying Login Title*
+08/09/2022 05:50:04 PM: INFO: *Test_002_DDT_Login*
+08/09/2022 05:50:04 PM: INFO: *Verifying Login DDT Title*
+08/09/2022 05:50:04 PM: INFO: 
+08/09/2022 05:50:04 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 05:50:04 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 05:50:04 PM: INFO: *Verifying Homepage Title*
+08/09/2022 05:50:09 PM: INFO: *Login Title Passed*
+08/09/2022 05:50:09 PM: INFO: *Logged in Successfully*
+08/09/2022 05:50:09 PM: INFO: *Starting Add Customer Test*
+08/09/2022 05:50:11 PM: INFO: *Logged in Successfully*
+08/09/2022 05:50:11 PM: INFO: *Starting Search By Email Test*
+08/09/2022 05:50:11 PM: INFO: *Homepage Title Test Passed*
+08/09/2022 05:50:11 PM: INFO: *Logged in Successfully
+08/09/2022 05:50:11 PM: INFO: *Login Title Passed*
+08/09/2022 05:50:12 PM: INFO: *Searching By Email*
+08/09/2022 05:50:12 PM: INFO: *Providing Customer Info*
+08/09/2022 05:50:17 PM: INFO: *Test Passed*
+08/09/2022 05:50:20 PM: INFO: *Test Passed*
+08/09/2022 05:50:24 PM: INFO: *Test Passed*
+08/09/2022 05:50:24 PM: INFO: *DDT Test Passed
+08/09/2022 05:50:24 PM: INFO: *Saving Customer Info*
+08/09/2022 05:50:24 PM: INFO: *Add Customer Test Passed
+08/09/2022 05:50:27 PM: INFO: *Ending Add Customer Test*
+08/09/2022 05:50:30 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 05:50:54 PM: INFO: *Logged in Successfully*
+08/09/2022 05:50:54 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 05:50:57 PM: INFO: *Searching By First Name*
+08/09/2022 05:53:10 PM: INFO: *Test_001*
+08/09/2022 05:53:10 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:11 PM: INFO: *Test_001*
+08/09/2022 05:53:11 PM: INFO: *Test_002*
+08/09/2022 05:53:11 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:12 PM: INFO: *Test_001*
+08/09/2022 05:53:12 PM: INFO: *Test_002*
+08/09/2022 05:53:12 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:12 PM: INFO: *Test_002*
+08/09/2022 05:53:12 PM: INFO: *DDT Test Completed
+08/09/2022 05:53:14 PM: INFO: *Verifying Homepage Title*
+08/09/2022 05:53:15 PM: INFO: *Verifying Login Title*
+08/09/2022 05:53:15 PM: INFO: *Test_002_DDT_Login*
+08/09/2022 05:53:15 PM: INFO: *Verifying Login DDT Title*
+08/09/2022 05:53:15 PM: INFO: 
+08/09/2022 05:53:15 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 05:53:15 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 05:53:15 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 05:53:22 PM: INFO: *Homepage Title Test Passed*
+08/09/2022 05:53:22 PM: INFO: *Logged in Successfully*
+08/09/2022 05:53:22 PM: INFO: *Starting Add Customer Test*
+08/09/2022 05:53:22 PM: INFO: *Logged in Successfully*
+08/09/2022 05:53:22 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 05:53:23 PM: INFO: *Login Title Passed*
+08/09/2022 05:53:24 PM: INFO: *Searching By First Name*
+08/09/2022 05:53:25 PM: INFO: *Logged in Successfully
+08/09/2022 05:53:25 PM: INFO: *Login Title Passed*
+08/09/2022 05:53:25 PM: INFO: *Providing Customer Info*
+08/09/2022 05:53:30 PM: INFO: *Test Passed*
+08/09/2022 05:53:34 PM: INFO: *Test Passed*
+08/09/2022 05:53:37 PM: INFO: *Saving Customer Info*
+08/09/2022 05:53:37 PM: INFO: *Add Customer Test Passed
+08/09/2022 05:53:37 PM: INFO: *Test Passed*
+08/09/2022 05:53:37 PM: INFO: *DDT Test Passed
+08/09/2022 05:53:38 PM: INFO: *Logged in Successfully*
+08/09/2022 05:53:38 PM: INFO: *Starting Search By Email Test*
+08/09/2022 05:53:40 PM: INFO: *Searching By Email*
+08/09/2022 05:53:40 PM: INFO: *Ending Add Customer Test*
+08/09/2022 05:57:37 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_001*
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:38 PM: INFO: *Test_002*
+08/09/2022 05:57:38 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:39 PM: INFO: *Test_001*
+08/09/2022 05:57:39 PM: INFO: *Test_002*
+08/09/2022 05:57:39 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:39 PM: INFO: *Test_001*
+08/09/2022 05:57:39 PM: INFO: *Test_002*
+08/09/2022 05:57:39 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:39 PM: INFO: *Test_002*
+08/09/2022 05:57:39 PM: INFO: *DDT Test Completed
+08/09/2022 05:57:41 PM: INFO: *Test_002_DDT_Login*
+08/09/2022 05:57:41 PM: INFO: *Verifying Login DDT Title*
+08/09/2022 05:57:41 PM: INFO: 
+08/09/2022 05:57:42 PM: INFO: *Verifying Homepage Title*
+08/09/2022 05:57:42 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 05:57:42 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 05:57:42 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 05:57:42 PM: INFO: *Verifying Login Title*
+08/09/2022 05:57:44 PM: INFO: *Homepage Title Test Passed*
+08/09/2022 05:57:49 PM: INFO: *Login Title Passed*
+08/09/2022 05:57:49 PM: INFO: *Logged in Successfully*
+08/09/2022 05:57:49 PM: INFO: *Starting Add Customer Test*
+08/09/2022 05:57:49 PM: INFO: *Logged in Successfully*
+08/09/2022 05:57:49 PM: INFO: *Starting Search By Email Test*
+08/09/2022 05:57:49 PM: INFO: *Logged in Successfully*
+08/09/2022 05:57:49 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 05:57:51 PM: INFO: *Searching By Email*
+08/09/2022 05:57:51 PM: INFO: *Searching By First Name*
+08/09/2022 05:57:52 PM: INFO: *Logged in Successfully
+08/09/2022 05:57:52 PM: INFO: *Login Title Passed*
+08/09/2022 05:57:52 PM: INFO: *Providing Customer Info*
+08/09/2022 05:57:57 PM: INFO: *Test Passed*
+08/09/2022 05:58:01 PM: INFO: *Test Passed*
+08/09/2022 05:58:04 PM: INFO: *Saving Customer Info*
+08/09/2022 05:58:04 PM: INFO: *Add Customer Test Passed
+08/09/2022 05:58:04 PM: INFO: *Test Passed*
+08/09/2022 05:58:04 PM: INFO: *DDT Test Passed
+08/09/2022 05:58:07 PM: INFO: *Ending Add Customer Test*
+08/09/2022 05:59:16 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_001*
+08/09/2022 05:59:17 PM: INFO: *Test_002*
+08/09/2022 05:59:17 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:18 PM: INFO: *Test_002*
+08/09/2022 05:59:18 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:18 PM: INFO: *Test_002*
+08/09/2022 05:59:18 PM: INFO: *DDT Test Completed
+08/09/2022 05:59:20 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 05:59:20 PM: INFO: *Verifying Homepage Title*
+08/09/2022 05:59:20 PM: INFO: *Test_002_DDT_Login*
+08/09/2022 05:59:20 PM: INFO: *Verifying Login DDT Title*
+08/09/2022 05:59:20 PM: INFO: 
+08/09/2022 05:59:20 PM: INFO: *Verifying Login Title*
+08/09/2022 05:59:21 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 05:59:21 PM: INFO: *Test_003_AddCustomer*
+08/09/2022 05:59:25 PM: INFO: *Logged in Successfully*
+08/09/2022 05:59:25 PM: INFO: *Starting Add Customer Test*
+08/09/2022 05:59:26 PM: INFO: *Homepage Title Test Passed*
+08/09/2022 05:59:27 PM: INFO: *Logged in Successfully*
+08/09/2022 05:59:27 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 05:59:27 PM: INFO: *Logged in Successfully*
+08/09/2022 05:59:27 PM: INFO: *Starting Search By Email Test*
+08/09/2022 05:59:28 PM: INFO: *Providing Customer Info*
+08/09/2022 05:59:28 PM: INFO: *Searching By First Name*
+08/09/2022 05:59:29 PM: INFO: *Searching By Email*
+08/09/2022 05:59:29 PM: INFO: *Logged in Successfully
+08/09/2022 05:59:29 PM: INFO: *Login Title Passed*
+08/09/2022 05:59:30 PM: INFO: *Login Title Passed*
+08/09/2022 05:59:34 PM: INFO: *Test Passed*
+08/09/2022 05:59:38 PM: INFO: *Test Passed*
+08/09/2022 05:59:40 PM: INFO: *Saving Customer Info*
+08/09/2022 05:59:40 PM: INFO: *Add Customer Test Passed
+08/09/2022 05:59:41 PM: INFO: *Test Passed*
+08/09/2022 05:59:41 PM: INFO: *DDT Test Passed
+08/09/2022 05:59:43 PM: INFO: *Ending Add Customer Test*
+08/09/2022 06:02:07 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 06:02:12 PM: INFO: *Logged in Successfully*
+08/09/2022 06:02:12 PM: INFO: *Starting Search By Email Test*
+08/09/2022 06:02:13 PM: INFO: *Searching By Email*
+08/09/2022 06:04:08 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 06:04:13 PM: INFO: *Logged in Successfully*
+08/09/2022 06:04:13 PM: INFO: *Starting Search By Email Test*
+08/09/2022 06:04:14 PM: INFO: *Searching By Email*
+08/09/2022 06:04:18 PM: INFO: *TC_SearchCustomerByEmail_005 Finished*
+08/09/2022 06:05:58 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 06:06:04 PM: INFO: *Logged in Successfully*
+08/09/2022 06:06:04 PM: INFO: *Starting Search By Email Test*
+08/09/2022 06:06:06 PM: INFO: *Searching By Email*
+08/09/2022 06:07:11 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 06:07:16 PM: INFO: *Logged in Successfully*
+08/09/2022 06:07:16 PM: INFO: *Starting Search By Email Test*
+08/09/2022 06:07:18 PM: INFO: *Searching By Email*
+08/09/2022 06:07:21 PM: INFO: *TC_SearchCustomerByEmail_005 Finished*
+08/09/2022 06:07:32 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:07:36 PM: INFO: *Logged in Successfully*
+08/09/2022 06:07:36 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:07:37 PM: INFO: *Searching By First Name*
+08/09/2022 06:07:38 PM: INFO: *TC_SearchCustomerByName_006 Finished*
+08/09/2022 06:08:17 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:08:23 PM: INFO: *Logged in Successfully*
+08/09/2022 06:08:23 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:08:24 PM: INFO: *Searching By First Name*
+08/09/2022 06:11:49 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:11:54 PM: INFO: *Logged in Successfully*
+08/09/2022 06:11:54 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:11:55 PM: INFO: *Searching By First Name*
+08/09/2022 06:11:55 PM: INFO: *TC_SearchCustomerByName_006 Finished*
+08/09/2022 06:13:24 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:13:30 PM: INFO: *Logged in Successfully*
+08/09/2022 06:13:30 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:13:31 PM: INFO: *Searching By First Name*
+08/09/2022 06:15:01 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:15:06 PM: INFO: *Logged in Successfully*
+08/09/2022 06:15:06 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:15:08 PM: INFO: *Searching By First Name*
+08/09/2022 06:15:08 PM: INFO: *TC_SearchCustomerByName_006 Finished*
+08/09/2022 06:15:16 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:15:39 PM: INFO: *Logged in Successfully*
+08/09/2022 06:15:39 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:15:41 PM: INFO: *Searching By First Name*
+08/09/2022 06:15:41 PM: INFO: *TC_SearchCustomerByName_006 Finished*
+08/09/2022 06:18:50 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:18:56 PM: INFO: *Logged in Successfully*
+08/09/2022 06:18:56 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:18:59 PM: INFO: *Searching By First Name*
+08/09/2022 06:20:32 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:20:38 PM: INFO: *Logged in Successfully*
+08/09/2022 06:20:38 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:20:40 PM: INFO: *Searching By First Name*
+08/09/2022 06:23:18 PM: INFO: *Test_006_SearchCustomerByName*
+08/09/2022 06:23:25 PM: INFO: *Logged in Successfully*
+08/09/2022 06:23:25 PM: INFO: *Starting Search By First Name Test*
+08/09/2022 06:23:27 PM: INFO: *Searching By First Name*
+08/09/2022 06:23:31 PM: INFO: *TC_SearchCustomerByName_006 Finished*
+08/09/2022 06:24:16 PM: INFO: *Test_005_SearchCustomerByEmail*
+08/09/2022 06:24:22 PM: INFO: *Logged in Successfully*
+08/09/2022 06:24:22 PM: INFO: *Starting Search By Email Test*
+08/09/2022 06:24:23 PM: INFO: *Searching By Email*
+08/09/2022 06:24:31 PM: INFO: *TC_SearchCustomerByEmail_005 Finished*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_001*
+08/10/2022 02:14:14 PM: INFO: *Test_002*
+08/10/2022 02:14:14 PM: INFO: *Test_002*
+08/10/2022 02:14:14 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:14 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:14 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:14 PM: INFO: *Test_002*
+08/10/2022 02:14:14 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_001*
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_001*
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_001*
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_001*
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:15 PM: INFO: *Test_002*
+08/10/2022 02:14:15 PM: INFO: *DDT Test Completed
+08/10/2022 02:14:17 PM: INFO: *Verifying Login Title*
+08/10/2022 02:14:17 PM: INFO: *Test_003_AddCustomer*
+08/10/2022 02:14:24 PM: INFO: *Login Title Passed*
+08/10/2022 02:14:42 PM: INFO: *Logged in Successfully*
+08/10/2022 02:14:42 PM: INFO: *Starting Add Customer Test*
+08/10/2022 02:14:46 PM: INFO: *Providing Customer Info*
+08/10/2022 02:14:57 PM: INFO: *Saving Customer Info*
+08/10/2022 02:14:57 PM: INFO: *Add Customer Test Passed
+08/10/2022 02:15:00 PM: INFO: *Ending Add Customer Test*
+08/10/2022 06:26:50 PM: INFO: *Test_001*
+08/10/2022 06:26:50 PM: INFO: *Test_001*
+08/10/2022 06:26:50 PM: INFO: *Test_001*
+08/10/2022 06:26:50 PM: INFO: *Test_001*
+08/10/2022 06:26:50 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:51 PM: INFO: *Test_001*
+08/10/2022 06:26:51 PM: INFO: *Test_002*
+08/10/2022 06:26:51 PM: INFO: *DDT Test Completed
+08/10/2022 06:26:53 PM: INFO: *Verifying Login Title*
+08/10/2022 06:26:53 PM: INFO: *Test_003_AddCustomer*
+08/10/2022 06:27:00 PM: INFO: *Login Title Passed*
+08/10/2022 06:27:00 PM: INFO: *Logged in Successfully*
+08/10/2022 06:27:00 PM: INFO: *Starting Add Customer Test*
+08/10/2022 06:27:02 PM: INFO: *Providing Customer Info*
+08/10/2022 06:27:14 PM: INFO: *Saving Customer Info*
+08/10/2022 06:27:14 PM: INFO: *Add Customer Test Passed
+08/10/2022 06:27:17 PM: INFO: *Ending Add Customer Test*
